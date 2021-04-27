@@ -1,5 +1,3 @@
-####TAREA 2
-
 ##Entrada
 
 Se recibirá un entero C que representa los casos de prueba a evaluar. Seguido a esto se
