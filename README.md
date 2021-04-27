@@ -1,10 +1,11 @@
+Task 2
 ##Entrada
 
 Se recibirá un entero C que representa los casos de prueba a evaluar. Seguido a esto se
 recibirá una cantidad arbitraria de líneas con 2 nombres K y L cada una separados por un espacio,
 que representan que K convirtió en vampiro por L. Posteriormente se recibirá una cantidad no
-definida de nombres, uno por línea, que representa los vampiros de los cuales se desea saber a qué
-clan pertenecen. Cada caso de prueba terminará con una línea que contiene únicamente un punto.
+definida de nombres, uno por línea, que representa los vampiros de los cuales se desea saber a quéclan pertenece
+n. Cada caso de prueba terminará con una línea que contiene únicamente un punto.
 
 ##Salida
 
@@ -19,8 +20,7 @@ hayan encontrado. Luego, se escribirá el nombre del líder del clan al que pert
 ubicar, en el mismo orden en que fueron recibidos. Cada caso de prueba debe terminar con una
 línea en blanco (indispensable para fines de presentación y evaluación). 
 
-#Tarea 3
-
+task3
 ##Entrada:
 
 La primera línea de la entrada tendrá un entero C, que indica el número de
