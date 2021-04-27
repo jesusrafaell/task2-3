@@ -1,6 +1,6 @@
-#TAREA 2
+####TAREA 2
 
-###Entrada
+##Entrada
 
 Se recibirá un entero C que representa los casos de prueba a evaluar. Seguido a esto se
 recibirá una cantidad arbitraria de líneas con 2 nombres K y L cada una separados por un espacio,
@@ -8,7 +8,7 @@ que representan que K convirtió en vampiro por L. Posteriormente se recibirá u
 definida de nombres, uno por línea, que representa los vampiros de los cuales se desea saber a qué
 clan pertenecen. Cada caso de prueba terminará con una línea que contiene únicamente un punto.
 
-###Salida
+##Salida
 
 La primera línea contendrá la cadena "Caso N:", donde N representa el número del caso de
 prueba, empezando por el caso 1. Seguido de esto se escribirá entero L que representa la cantidad
@@ -23,7 +23,7 @@ línea en blanco (indispensable para fines de presentación y evaluación).
 
 #Tarea 3
 
-###Entrada:
+##Entrada:
 
 La primera línea de la entrada tendrá un entero C, que indica el número de
 casos de prueba. La primera línea de cada caso de prueba contendrá un par de
@@ -36,7 +36,7 @@ estado F leyendo L en la cadena, escribiendo E y realizando un desplazamiento D,
 todos separados por un espacio. Finalmente, se recibirán una cadena para ser
 evaluada por la MT.
 
-###Salida:
+##Salida:
 
 En la primera línea de cada caso de prueba debe mostrar la cadena "Caso
 X:", en donde X representa el número del caso de prueba actual (empezando en
