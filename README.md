@@ -1,4 +1,5 @@
 Task 2
+
 ##Entrada
 
 Se recibirá un entero C que representa los casos de prueba a evaluar. Seguido a esto se
@@ -21,6 +22,7 @@ ubicar, en el mismo orden en que fueron recibidos. Cada caso de prueba debe term
 línea en blanco (indispensable para fines de presentación y evaluación). 
 
 task3
+
 ##Entrada:
 
 La primera línea de la entrada tendrá un entero C, que indica el número de
